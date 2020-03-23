@@ -1,0 +1,63 @@
+.jumbotron{
+	background: transparent;
+
+}
+
+
+.navbar-light{
+	background-color: transparent;
+}
+
+.col-md-5{
+	height:300px;
+	
+	 background-color:  #d9ffb3;
+	 margin:10px 10px 10px 10px;
+}
+
+
+.an{
+    width: 100%;
+    height: 100%;
+   
+    text-align: center;
+    display: table;
+    -moz-box-sizing: border-box;
+    
+}
+
+
+
+.ans {
+    vertical-align: middle;
+    text-align: center;
+      display: table-cell; 
+      font-size: 35px;
+      color: #0f0f0a;
+      font-family: Times;
+}
+
+.col-md-5:hover{
+	background-color: white;
+}
+.r{
+	background-color: #00e6e6;
+	height: 620px;
+	margin:10px 10px 10px 10px;
+
+}
+
+.ani{
+	
+	vertical-align: middle;
+    text-align: center;
+      display: table-cell; 
+      font-size: 25px;
+      color: #0f0f0a;
+      font-family: Times;
+
+}
+
+
+
+

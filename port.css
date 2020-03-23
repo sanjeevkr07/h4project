@@ -1,0 +1,64 @@
+.jumbotron{
+	background: transparent;
+
+}
+
+
+.navbar-light{
+	background-color: transparent;
+}
+
+
+.btn
+{
+	border-radius: 25px;
+	border-color: #212529;
+	background:transparent;
+
+}
+
+button{
+	margin-right: 30px;
+
+}
+
+.btn:hover{
+	background: grey;
+}
+
+.cimg{
+	height: 400px;
+	width: 320px;
+	
+
+	margin-top: 50px;
+	
+
+	transition: all 1.0s ease;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    border-radius:10px;
+   margin-left: 30px;
+	
+}
+
+.cimg:hover{
+	 transition: all 0.5s ease;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+    -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 0, 255, 0.67);
+    -moz-box-shadow:    0px 0px 30px 0px rgba(0, 0, 255, 0.67);
+    box-shadow:         0px 0px 30px 0px rgba(0, 0, 255, 0.67);
+    background-color:  #1a53ff;
+}
+
+.cimg:last-of-type:hover{
+
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+    -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 0, 255, 0.67);
+    -moz-box-shadow:    0px 0px 30px 0px rgba(0, 0, 255, 0.67);
+    box-shadow:         0px 0px 30px 0px rgba(0, 0, 255, 0.67);
+} 
